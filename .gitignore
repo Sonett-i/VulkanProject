@@ -1,5 +1,6 @@
 # includes
 include\
+.vs\
 
 # Prerequisites
 *.d
